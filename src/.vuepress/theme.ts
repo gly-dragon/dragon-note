@@ -5,7 +5,7 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
 	hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 	// 不显示贡献者信息
-	// contributors: false,
+	contributors: false,
 	// 默认作者信息
 	author: {
 		name: "龙哥不管事",
